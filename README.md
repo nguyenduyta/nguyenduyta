@@ -5,7 +5,7 @@ Experienced Information Technology Specialist with a demonstrated history of wor
 Skilled in Ruby on Rails, React, SQL, PHP, jQuery, Cascading Style Sheets (CSS). Successfully designed, developed,
 and launched many Ruby on Rails applications from eCommerce websites to production management applications.
 Strong information technology professional with a Bachelor of Engineering - BE focused in Information Technology from Vietnam 
-National University, Hanoi. Currently working for an EC company in Japan.
+National University, Hanoi.
 
 Connect with me
 https://www.xedapkhongyen.com/
